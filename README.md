@@ -5,7 +5,7 @@
  * @package   Excel Import
  * @author    Hari Om Mishra <omswphp@gmail.com.com>
  * @copyright Copyright (c) 2017-2018
- * @license   http://opensource.org/licenses/gpl-3.0.html GNU Public License
+ * @license   Free License
  * @link      https://github.com/omsw/php-import-excel-csv-mysqldb.git 
  * @version   1.0
  */
