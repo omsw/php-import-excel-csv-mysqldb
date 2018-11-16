@@ -13,7 +13,7 @@
 1. Download or clone Source file from given github link.
 2. To utilize this class, first import users.sql into your database.
 3. Make a connection object and start fun.
-### Initialization
+### Installation
 
 
 
